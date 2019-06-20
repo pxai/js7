@@ -1,0 +1,3 @@
+do {
+    operaciones;
+} while (condición);
