@@ -1,0 +1,12 @@
+a. let x = 4;
+b. let y = 6;
+c. (x > 0)          
+    true
+d. (x > 0) || (y>7) 
+    true
+e. (x <= 4) && (y != 4)
+    true
+f. !( (x < 4) && (y >42))
+    true
+g. !(x < 4) || !(y >42)
+    true
