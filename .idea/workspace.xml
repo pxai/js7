@@ -1,7 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64fbe056-06b7-429c-8435-2a8e595bd8c2" name="Default" comment="" />
+    <list default="true" id="64fbe056-06b7-429c-8435-2a8e595bd8c2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_variables_operadores/proyecto/proyecto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_condicionales/proyecto/proyecto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_iteraciones/proyecto/proyecto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04_arrays/proyecto/proyecto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_funciones/proyecto/proyecto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_clases/practicar/36.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_clases/practicar/37.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_clases/practicar/38.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_clases/practicar/39.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_clases/practicar/40.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_clases/practicar/41.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_clases/practicar/42.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_clases/proyecto/proyecto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/ejemplos/node_modules/readline-sync/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/ejemplos/node_modules/readline-sync/README-Deprecated.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/ejemplos/node_modules/readline-sync/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/ejemplos/node_modules/readline-sync/lib/encrypt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/ejemplos/node_modules/readline-sync/lib/read.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/ejemplos/node_modules/readline-sync/lib/read.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/ejemplos/node_modules/readline-sync/lib/read.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/ejemplos/node_modules/readline-sync/lib/readline-sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/ejemplos/node_modules/readline-sync/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/ejemplos/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/ejemplos/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/1/1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/1/generar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/2/2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/2/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/3/3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/3/3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/3/fichero.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/4/4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/4/4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/4/listado.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/5/5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/5/tareas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/5/tareas.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/6/6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/6/equipo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/6/jugador.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07_librerias/propuestos/6/jugadores.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/00.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/00.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/01.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/01.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/02.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/02.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/03.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/03.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/04.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/04.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/05.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/05.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/06.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/06.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/07.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/07.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/08.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/08.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/09.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/09.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/10.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/10.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/11.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/11.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/12.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/12.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/13.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/13.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/14.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/14.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/15.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/15.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/practicar/16.js" afterPath="$PROJECT_DIR$/01_variables_operadores/practicar/16.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/propuestos/2.txt" afterPath="$PROJECT_DIR$/01_variables_operadores/propuestos/2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/propuestos/3.txt" afterPath="$PROJECT_DIR$/01_variables_operadores/propuestos/3.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/propuestos/4.js" afterPath="$PROJECT_DIR$/01_variables_operadores/propuestos/4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/propuestos/5.js" afterPath="$PROJECT_DIR$/01_variables_operadores/propuestos/5.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/propuestos/6.js" afterPath="$PROJECT_DIR$/01_variables_operadores/propuestos/6.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/pseudo/comments.js" afterPath="$PROJECT_DIR$/01_variables_operadores/pseudocode/comments.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/pseudo/consoleLog.js" afterPath="$PROJECT_DIR$/01_variables_operadores/pseudocode/consoleLog.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1_intro/pseudo/prompt.js" afterPath="$PROJECT_DIR$/01_variables_operadores/pseudocode/prompt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2_variables/pseudocode/variables.js" afterPath="$PROJECT_DIR$/01_variables_operadores/pseudocode/variables.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/practicar/17.js" afterPath="$PROJECT_DIR$/02_condicionales/practicar/17.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/practicar/18.js" afterPath="$PROJECT_DIR$/02_condicionales/practicar/18.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/practicar/19.js" afterPath="$PROJECT_DIR$/02_condicionales/practicar/19.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/practicar/20.js" afterPath="$PROJECT_DIR$/02_condicionales/practicar/20.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/propuestos/1.js" afterPath="$PROJECT_DIR$/02_condicionales/propuestos/1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/propuestos/2.js" afterPath="$PROJECT_DIR$/02_condicionales/propuestos/2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/propuestos/3.js" afterPath="$PROJECT_DIR$/02_condicionales/propuestos/3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/propuestos/4.js" afterPath="$PROJECT_DIR$/02_condicionales/propuestos/4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/propuestos/5.js" afterPath="$PROJECT_DIR$/02_condicionales/propuestos/5.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/propuestos/6.js" afterPath="$PROJECT_DIR$/02_condicionales/propuestos/6.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/pseudocode/if-else-if.js" afterPath="$PROJECT_DIR$/02_condicionales/pseudocode/if-else-if.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/pseudocode/if-else.js" afterPath="$PROJECT_DIR$/02_condicionales/pseudocode/if-else.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/pseudocode/if.js" afterPath="$PROJECT_DIR$/02_condicionales/pseudocode/if.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/3_conditionals/pseudocode/switchCase.js" afterPath="$PROJECT_DIR$/02_condicionales/pseudocode/switchCase.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/practicar/21.js" afterPath="$PROJECT_DIR$/03_iteraciones/practicar/21.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/practicar/22.js" afterPath="$PROJECT_DIR$/03_iteraciones/practicar/22.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/practicar/23.js" afterPath="$PROJECT_DIR$/03_iteraciones/practicar/23.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/practicar/24.js" afterPath="$PROJECT_DIR$/03_iteraciones/practicar/24.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/propuestos/1.js" afterPath="$PROJECT_DIR$/03_iteraciones/propuestos/1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/propuestos/2.js" afterPath="$PROJECT_DIR$/03_iteraciones/propuestos/2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/propuestos/3.js" afterPath="$PROJECT_DIR$/03_iteraciones/propuestos/3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/propuestos/4.js" afterPath="$PROJECT_DIR$/03_iteraciones/propuestos/4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/propuestos/5.js" afterPath="$PROJECT_DIR$/03_iteraciones/propuestos/5.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/propuestos/6.js" afterPath="$PROJECT_DIR$/03_iteraciones/propuestos/6.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/propuestos/7.js" afterPath="$PROJECT_DIR$/03_iteraciones/propuestos/7.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/pseudocode/doWhile.js" afterPath="$PROJECT_DIR$/03_iteraciones/pseudocode/doWhile.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/pseudocode/for.js" afterPath="$PROJECT_DIR$/03_iteraciones/pseudocode/for.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4_iteraciones/pseudocode/while.js" afterPath="$PROJECT_DIR$/03_iteraciones/pseudocode/while.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/practicar/25.js" afterPath="$PROJECT_DIR$/04_arrays/practicar/25.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/practicar/26.js" afterPath="$PROJECT_DIR$/04_arrays/practicar/26.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/practicar/27.js" afterPath="$PROJECT_DIR$/04_arrays/practicar/27.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/practicar/28.js" afterPath="$PROJECT_DIR$/04_arrays/practicar/28.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/practicar/29.js" afterPath="$PROJECT_DIR$/04_arrays/practicar/29.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/practicar/30.js" afterPath="$PROJECT_DIR$/04_arrays/practicar/30.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/practicar/31.js" afterPath="$PROJECT_DIR$/04_arrays/practicar/31.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/propuestos/1.js" afterPath="$PROJECT_DIR$/04_arrays/propuestos/1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/propuestos/2.js" afterPath="$PROJECT_DIR$/04_arrays/propuestos/2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/propuestos/3.js" afterPath="$PROJECT_DIR$/04_arrays/propuestos/3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/propuestos/4.js" afterPath="$PROJECT_DIR$/04_arrays/propuestos/4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/propuestos/5.js" afterPath="$PROJECT_DIR$/04_arrays/propuestos/5.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/propuestos/6.js" afterPath="$PROJECT_DIR$/04_arrays/propuestos/6.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/propuestos/7.js" afterPath="$PROJECT_DIR$/04_arrays/propuestos/7.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5_arrays/pseudocode/array.js" afterPath="$PROJECT_DIR$/04_arrays/pseudocode/array.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/practicar/32.js" afterPath="$PROJECT_DIR$/05_funciones/practicar/32.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/practicar/33.js" afterPath="$PROJECT_DIR$/05_funciones/practicar/33.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/practicar/34.js" afterPath="$PROJECT_DIR$/05_funciones/practicar/34.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/practicar/35.js" afterPath="$PROJECT_DIR$/05_funciones/practicar/35.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/propuestos/1.js" afterPath="$PROJECT_DIR$/05_funciones/propuestos/1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/propuestos/2.js" afterPath="$PROJECT_DIR$/05_funciones/propuestos/2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/propuestos/3.js" afterPath="$PROJECT_DIR$/05_funciones/propuestos/3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/propuestos/4.js" afterPath="$PROJECT_DIR$/05_funciones/propuestos/4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/propuestos/5.js" afterPath="$PROJECT_DIR$/05_funciones/propuestos/5.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/propuestos/6.js" afterPath="$PROJECT_DIR$/05_funciones/propuestos/6.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/propuestos/7.js" afterPath="$PROJECT_DIR$/05_funciones/propuestos/7.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/6_funciones/pseudocode/function.js" afterPath="$PROJECT_DIR$/05_funciones/pseudocode/function.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/7_clases/propuestos/1.js" afterPath="$PROJECT_DIR$/06_clases/propuestos/1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/7_clases/propuestos/2.js" afterPath="$PROJECT_DIR$/06_clases/propuestos/2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/7_clases/propuestos/3.js" afterPath="$PROJECT_DIR$/06_clases/propuestos/3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/7_clases/propuestos/4.js" afterPath="$PROJECT_DIR$/06_clases/propuestos/4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/7_clases/propuestos/5.js" afterPath="$PROJECT_DIR$/06_clases/propuestos/5.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/7_clases/propuestos/6.js" afterPath="$PROJECT_DIR$/06_clases/propuestos/6.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/7_clases/pseucode/class.js" afterPath="$PROJECT_DIR$/06_clases/pseucode/class.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,102 +145,72 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="if.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_conditionals/pseudocode/if.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="lectura.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/lectura.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="if-else.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_conditionals/pseudocode/if-else.js">
+      <file leaf-file-name="mensaje.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/mensaje.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calificacion.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/calificacion.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datos.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/datos.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inicio.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/inicio.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="43" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sample.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="if-else-if.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_conditionals/pseudocode/if-else-if.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="switchCase.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_conditionals/pseudocode/switchCase.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="comments.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_intro/pseudo/comments.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="while.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_iteraciones/pseudocode/while.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="doWhile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_iteraciones/pseudocode/doWhile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="for.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_iteraciones/pseudocode/for.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5_arrays/pseudocode/array.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6_funciones/pseudocode/function.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -122,6 +224,14 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class Inicio \{\n    constructor \(notas\) \{\n        this\._datos \= new Datos\(notas\)\;\n        this\._mensaje \= new Mensaje\(\)\;\n        this\._iu \= new InterfazUsuario\(\)\;\n    \}\n\n    bucle\(\) \{\n        let opcion \= \&quot;\&quot;\;\n        do \{\n            this\._iu\.mostrar\(this\._mensaje\.menu\(\)\)\;\n            opcion \= this\._iu\.leerOpcion\(\)\;\n            this\.ejecutar\(opcion\)\;            \n\n        \} while \(opcion \!\= \&quot;4\&quot;\)\;\n    \}\n\n    ejecutar \(opcion\) \{\n    switch \(opcion\) \{\n            case \&quot;1\&quot;\:   \n                this\._iu\.mostrar\(this\._datos\.mostrar\(\)\)\;\n                break\;\n\n            case \&quot;2\&quot;\:   \n                this\._datos\.crear\(this\._iu\.crear\(\)\)\;\n                break\;\n\n            case \&quot;3\&quot;\:\n                this\._datos\.eliminar\(this\._iu\.leerIndice\(\)\)\;\n                break\;\n\n            case \&quot;4\&quot;\:\n                this\._iu\.mostrar\(this\._mensaje\.salir\(\)\)\;\n                break\;\n\n            default\:\n                this\._iu\.mostrar\(this\._mensaje\.opcionIncorrecta\(\)\)\;\n                break\;\n        \}\n    \}\n\}\n    \n    class InterfazUsuario \{\n        mostrar \(mensaje\) \{\n            console\.log\(mensaje\)\;\n        \}\n        \n        leerOpcion \(\) \{\n            return Lectura\.leer\(\&quot;introduce opción\&quot;\)\;\n        \}\n\n        crear \(\) \{\n            const nota \= Lectura\.leer\(\&quot;Introduce una nota\&quot;\)\;\n            const asignatura \= Lectura\.leer\(\&quot;Introduce una asignatura\&quot;\)\;\n            return new Calificacion\(nota\, asignatura\)\;\n        \}\n\n        leerIndice \(\) \{\n            return Lectura\.leer\(\&quot;indica un índice\&quot;\)\;\n        \}\n    \}\n\n    class Mensaje \{\n        menu \(\) \{\n            return \&quot;1\. Mostrar todo\.\\n\&quot; \+\n                    \&quot;2\. Añadir nuevo elemento\.\\n\&quot; \+\n                    \&quot;3\. Eliminar elemento\.\\n\&quot; \+\n                    \&quot;4\. Salir\\n\&quot;\;\n        \}\n\n        salir \(\) \{\n            return \&quot;Hasta otra\&quot;\;\n        \}\n\n        opcionIncorrecta \(\) \{\n            return \&quot;Opción no soportada\&quot;\;\n        \}\n    \}\n\n    class Lectura \{\n        static leer\(mensaje\) \{\n            return prompt\(mensaje\)\;\n        \}\n    \}\n\n    class Datos \{\n        constructor \(datos\) \{\n            this\._datos \= datos\;\n        \}\n\n        mostrar \(\) \{\n            let result \= \&quot;\&quot;\;\n            console\.log\(this\._datos\)\n            for \(let i \= 0\; i \&lt; this\._datos\.length\; i\+\+\) \{\n                result \+\= this\._datos\[i\]\.info\(\) \+ \&quot;\\n\&quot;\;\n            \}\n            return result\;\n        \}\n\n        crear\(calificacion\) \{\n            this\._datos\.push\(calificacion\)\;\n        \}\n\n        eliminar \(indice\) \{\n            this\._datos\.splice\(indice\, 1\)\;\n        \}\n    \}\n\n    class Calificacion \{\n        constructor \(nota\, asignatura\) \{\n            this\._nota \= nota\;\n            this\._asignatura \= asignatura\;\n        \}\n\n        info\(\) \{\n            return \`\$\{this\._asignatura\}\: \$\{this\._nota\} \`\;\n        \}\n    \}\n\n    let notas \= \[\n        new Calificacion\(5\, \&quot;Lengua\&quot;\)\,\n        new Calificacion\(8\, \&quot;Matemáticas\&quot;\)\,\n    \]\;\n\n    new Inicio\(notas\)\.bucle\(\)\;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -140,6 +250,13 @@
         <option value="$PROJECT_DIR$/6_funciones/pseudocode/function.js" />
         <option value="$PROJECT_DIR$/7_clases/pseucode/class.js" />
         <option value="$PROJECT_DIR$/1_intro/pseudo/comments.js" />
+        <option value="$PROJECT_DIR$/02_condicionales/propuestos/3.js" />
+        <option value="$PROJECT_DIR$/05_funciones/propuestos/1.js" />
+        <option value="$PROJECT_DIR$/05_funciones/propuestos/4.js" />
+        <option value="$PROJECT_DIR$/02_condicionales/propuestos/4.js" />
+        <option value="$PROJECT_DIR$/04_arrays/proyecto/proyecto.js" />
+        <option value="$PROJECT_DIR$/06_clases/proyecto/proyecto.js" />
+        <option value="$PROJECT_DIR$/sample.js" />
       </list>
     </option>
   </component>
@@ -149,12 +266,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1894" />
-    <option name="y" value="87" />
-    <option name="width" value="1483" />
-    <option name="height" value="763" />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/07_librerias/ejemplos/node_modules" />
+    <handled-path value="$PROJECT_DIR$/07_librerias/proyecto/node_modules" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1018" />
+    <option name="y" value="28" />
+    <option name="width" value="902" />
+    <option name="height" value="1018" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -170,6 +292,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,85 +304,108 @@
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="1_intro" type="462c0819:PsiDirectoryNode" />
+              <item name="01_variables_operadores" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="1_intro" type="462c0819:PsiDirectoryNode" />
-              <item name="pseudo" type="462c0819:PsiDirectoryNode" />
+              <item name="01_variables_operadores" type="462c0819:PsiDirectoryNode" />
+              <item name="proyecto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="2_variables" type="462c0819:PsiDirectoryNode" />
+              <item name="02_condicionales" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="3_conditionals" type="462c0819:PsiDirectoryNode" />
+              <item name="02_condicionales" type="462c0819:PsiDirectoryNode" />
+              <item name="propuestos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="3_conditionals" type="462c0819:PsiDirectoryNode" />
-              <item name="pseudocode" type="462c0819:PsiDirectoryNode" />
+              <item name="02_condicionales" type="462c0819:PsiDirectoryNode" />
+              <item name="proyecto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="4_iteraciones" type="462c0819:PsiDirectoryNode" />
+              <item name="03_iteraciones" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="4_iteraciones" type="462c0819:PsiDirectoryNode" />
-              <item name="pseudocode" type="462c0819:PsiDirectoryNode" />
+              <item name="03_iteraciones" type="462c0819:PsiDirectoryNode" />
+              <item name="practicar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="5_arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="03_iteraciones" type="462c0819:PsiDirectoryNode" />
+              <item name="propuestos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="5_arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="pseudocode" type="462c0819:PsiDirectoryNode" />
+              <item name="03_iteraciones" type="462c0819:PsiDirectoryNode" />
+              <item name="proyecto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="6_funciones" type="462c0819:PsiDirectoryNode" />
+              <item name="04_arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="6_funciones" type="462c0819:PsiDirectoryNode" />
-              <item name="pseudocode" type="462c0819:PsiDirectoryNode" />
+              <item name="04_arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="propuestos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="7_clases" type="462c0819:PsiDirectoryNode" />
+              <item name="05_funciones" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js7" type="b2602c69:ProjectViewProjectNode" />
               <item name="js7" type="462c0819:PsiDirectoryNode" />
-              <item name="7_clases" type="462c0819:PsiDirectoryNode" />
-              <item name="pseucode" type="462c0819:PsiDirectoryNode" />
+              <item name="05_funciones" type="462c0819:PsiDirectoryNode" />
+              <item name="proyecto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js7" type="462c0819:PsiDirectoryNode" />
+              <item name="06_clases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js7" type="462c0819:PsiDirectoryNode" />
+              <item name="06_clases" type="462c0819:PsiDirectoryNode" />
+              <item name="proyecto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js7" type="462c0819:PsiDirectoryNode" />
+              <item name="07_librerias" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js7" type="462c0819:PsiDirectoryNode" />
+              <item name="07_librerias" type="462c0819:PsiDirectoryNode" />
+              <item name="proyecto" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/node_modules/.bin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -289,31 +436,37 @@
       <option name="presentableId" value="Default" />
       <updated>1562394778273</updated>
       <workItem from="1562394779552" duration="2099000" />
+      <workItem from="1567860149601" duration="4707000" />
+      <workItem from="1567927558740" duration="1351000" />
+      <workItem from="1568129604029" duration="775000" />
+      <workItem from="1568310946670" duration="1492000" />
+      <workItem from="1568358853500" duration="475000" />
+      <workItem from="1568360828938" duration="5170000" />
+      <workItem from="1568447770436" duration="3092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2099000" />
+    <option name="totallyTimeSpent" value="19161000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1894" y="87" width="1483" height="763" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="28" width="1920" height="1018" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32366824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27586207" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -328,114 +481,366 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_intro/pseudo/consoleLog.js">
+    <entry file="file://$PROJECT_DIR$/04_arrays/practicar/28.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="21" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_intro/pseudo/prompt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_variables/pseudocode/variables.js">
+    <entry file="file://$PROJECT_DIR$/04_arrays/practicar/29.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="23" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7_clases/pseucode/class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_funciones/pseudocode/function.js">
+    <entry file="file://$PROJECT_DIR$/04_arrays/practicar/30.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="40" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5_arrays/pseudocode/array.js">
+    <entry file="file://$PROJECT_DIR$/04_arrays/practicar/31.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_iteraciones/pseudocode/while.js">
+    <entry file="file://$PROJECT_DIR$/05_funciones/practicar/32.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_iteraciones/pseudocode/doWhile.js">
+    <entry file="file://$PROJECT_DIR$/05_funciones/practicar/33.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="20" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_iteraciones/pseudocode/for.js">
+    <entry file="file://$PROJECT_DIR$/05_funciones/practicar/34.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_conditionals/pseudocode/if.js">
+    <entry file="file://$PROJECT_DIR$/05_funciones/practicar/35.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_conditionals/pseudocode/if-else.js">
+    <entry file="file://$PROJECT_DIR$/06_clases/practicar/36.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_conditionals/pseudocode/if-else-if.js">
+    <entry file="file://$PROJECT_DIR$/06_clases/practicar/37.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_conditionals/pseudocode/switchCase.js">
+    <entry file="file://$PROJECT_DIR$/06_clases/practicar/38.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_intro/pseudo/comments.js">
+    <entry file="file://$PROJECT_DIR$/06_clases/practicar/39.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_clases/practicar/40.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_clases/practicar/41.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_clases/practicar/42.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/43.lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/43.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/44.lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/44.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/45.lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/45.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/46.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/47.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/48.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/entrada.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/49.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/50.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/51.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/52.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/53.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/54.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/55.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/practicar/56.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_iteraciones/propuestos/4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_arrays/propuestos/4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_condicionales/propuestos/3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_condicionales/propuestos/4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_variables_operadores/proyecto/proyecto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_condicionales/proyecto/proyecto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_iteraciones/proyecto/proyecto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_funciones/proyecto/proyecto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_arrays/proyecto/proyecto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="46" column="47" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_clases/proyecto/proyecto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="85" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="124" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/lectura.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/mensaje.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/calificacion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/datos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/interfaz-usuario.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/inicio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_librerias/proyecto/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
