@@ -5,6 +5,7 @@ if (numero >= 0) {
 } else {
  console.log(numero + " es negativo");
 } 
-  numero = -numero;
 
-  console.log("Conversión: " + numero);
+numero = -numero;
+
+console.log("Conversión: " + numero);
