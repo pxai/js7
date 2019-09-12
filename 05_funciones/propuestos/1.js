@@ -7,7 +7,7 @@ function saludo (momentoDelDia) {
     }
 }
 
-console.log(momentoDelDia("tarde"))
+console.log(momentoDelDia("tarde"));
 
 const momentoDelDia2 = momento => ({ 
     "mañana": "Buenos Días", 
@@ -15,4 +15,4 @@ const momentoDelDia2 = momento => ({
     "noche": "Buenas noches"}[momento]);
     
     
-console.log(momentoDelDia2("tarde"))
+console.log(momentoDelDia2("tarde"));

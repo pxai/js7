@@ -18,4 +18,4 @@ function generarNombre (silabas) {
     return nombre;
 }
 
-console.log(generarNombre(3))
+console.log(generarNombre(3));
