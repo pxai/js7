@@ -5,7 +5,7 @@ class Instrumento {
     }
 
     tocar () {
-        console.log("Tocando ", nombre);
+        console.log("Tocando ", this._nombre);
     }
 
     info () {
@@ -15,5 +15,4 @@ class Instrumento {
 
 const miGuitarra = new Instrumento("Guitarra", "cuerda");
 miGuitarra.tocar();
-
 console.log(miGuitarra.info());
