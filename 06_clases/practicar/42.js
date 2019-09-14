@@ -2,11 +2,9 @@ class Piloto {
     constructor (nombre) {
         this._nombre = nombre;
     }
-
     get nombre () {
         return this._nombre;
     }
-
     set nombre (nombre) {
         this._nombre = nombre;
     }
@@ -28,15 +26,12 @@ class Aeroplano {
     }
 
     volar () {
-        console.log("Volando ", this._modelo, this._piloto, this._copiloto);
+        return `Volando ${this._modelo} ${this._piloto.nombre} con  ${this._copiloto.nombre}`;
     }
 }
 
-
-
-
 const piloto1 = new Piloto("Han Solo");
 const piloto2 = new Piloto("Murdock");
-
 const avioneta = new Aeroplano("AirBluff 727", piloto1, piloto2);
+
 console.log(avioneta.volar());
